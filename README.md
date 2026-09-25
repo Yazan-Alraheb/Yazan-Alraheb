@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yazan Alraheb
 
-<!--
-**Yazan-Alraheb/Yazan-Alraheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student at San Diego State University.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Computer Engineering
+- Interested in embedded systems and frontend/backend systems
+- Currently working on improving my programming and project development skills
+
+## Current Goals
+
+- Build more software projects
+- Learn more about frontend and backend development
+- Develop practical engineering skills
